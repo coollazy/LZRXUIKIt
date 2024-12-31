@@ -1,0 +1,33 @@
+{
+  "originHash" : "93522c375a20967e11b9add86b86dd448959aac01c858f237b127677dc03693f",
+  "pins" : [
+    {
+      "identity" : "lzfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/coollazy/LZFoundation.git",
+      "state" : {
+        "revision" : "a465b1a52ac0d485811f0bb05a8c448278b6454c",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "lzuikit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/coollazy/LZUIKit.git",
+      "state" : {
+        "revision" : "bcd2c55377d4096b9d8f675418d9546fd1e5a6ac",
+        "version" : "4.0.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "c7c7d2cf50a3211fe2843f76869c698e4e417930",
+        "version" : "6.8.0"
+      }
+    }
+  ],
+  "version" : 3
+}
